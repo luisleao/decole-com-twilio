@@ -7,7 +7,7 @@ Nesta série de três webinars, abordaremos desde conceitos básicos e como reso
 
 Este repositório está vinculado a série de 3 webinars realizada em Junho de 2021.
 
-**[Assistir episódios](https://ahoy.twilio.com/devgen_webinar_liftoff_1_LATAM_BR-1)**
+# **[Assistir episódios](https://ahoy.twilio.com/devgen_webinar_liftoff_1_LATAM_BR-1)**
   
 
 ### Episódio 1 (15/06): Primeiros passos com APIs
