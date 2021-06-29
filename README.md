@@ -6,6 +6,7 @@
 Nesta série de três webinars, abordaremos desde conceitos básicos e como resolver problemas do mundo real através de APIs e implementar ideias mais avançadas utilizando ferramentas de programação.
 
 Este repositório está vinculado a série de 3 webinars realizada em Junho de 2021.
+
 **[Assistir episódios](https://ahoy.twilio.com/devgen_webinar_liftoff_1_LATAM_BR-1)**
   
 
