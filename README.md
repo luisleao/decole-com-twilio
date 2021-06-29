@@ -37,13 +37,13 @@ Vamos conferir alguns tópicos mais avançados para desenvolvedores, como agenda
 * Rode utilizando o comando `node ARQUIVO.js`
 
 ## Variáveis de ambiente para configurar
-```bash
-TWILIO_ACCOUNT_SID="[ACCOUNT_SID]"
-TWILIO_AUTH_TOKEN="[ACCOUNT_TOKEN]"
-OPENWEATHERKEY="[SEU_TOKEN_OPEN_WEATHER]"
-TWILIO_MOBILE_NUMBER="[SEU_NUMERO_TWILIO]"
-MY_PHONE_NUMBER="[SEU_NUMERO_PESSOAL_FORMATO___+5511912345678]"
-TWILIO_MESSAGING_SERVICE_SID="[MESSAGE_SID_AQUI]"
-TWILIO_NOTIFY_SERVICE_SID="[SEU_NOTIFY_SERVICE_ID_AQUI]"
-```
+
+* `TWILIO_ACCOUNT_SID`: ACCOUNT_SID na home do https://www.twilio.com/console
+* `TWILIO_AUTH_TOKEN`: AUTH TOKEN na home do https://www.twilio.com/console
+* `OPENWEATHERKEY`: Faça login e registro um token em https://openweathermap.org/appid
+* `TWILIO_MOBILE_NUMBER`: Seu número Twilio (pode ser um número dos Estados Unidos que tenha SMS)
+* `MY_PHONE_NUMBER`: Seu número pessoal no formato +5511912345678
+* `TWILIO_MESSAGING_SERVICE_SID`: crie em https://www.twilio.com/console/sms/services (começa com `MG`)
+* `TWILIO_NOTIFY_SERVICE_SID`: crie em https://www.twilio.com/console/notify/services (começa com `IS`)
+
 
