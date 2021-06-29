@@ -47,6 +47,6 @@ Vamos conferir alguns tópicos mais avançados para desenvolvedores, como agenda
 * `TWILIO_MESSAGING_SERVICE_SID`: crie em https://www.twilio.com/console/sms/services (começa com `MG`)
 * `TWILIO_NOTIFY_SERVICE_SID`: crie em https://www.twilio.com/console/notify/services (começa com `IS`)
 
-**Você pode criar um arquivo `.env` com essas variáveis**
+**Você pode criar um arquivo `.env` com essas variáveis.**
 
 Salve este arquivo na raiz de cada episódio!
