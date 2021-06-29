@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+<Say voice="alice" language="pt-BR">Olá. Obrigado por fazer o teste com o Leão!</Say>
+<Pause length="1"/>
+<Say voice="alice" language="pt-BR">Estamos felizes com você participando da nossa demonstração</Say>
+</Response>
